@@ -15,7 +15,7 @@ nav {
     margin: 0 auto;
     display: flex;
     padding: 10px;
-    margin-bottom: 20px; 
+    margin-bottom: 30px; 
 
 }
  
@@ -49,7 +49,7 @@ text-decoration: none;
 /* main container area beneath menu*/
 main { 
 background: #ffa500
-display: flex;
+display flex;
 margin-top: 20px;
 
 }
@@ -115,6 +115,7 @@ margin: 0px;
   }
 
   h1 {
+    color: #eee;
     font-size: 44px;
   }
 
@@ -153,5 +154,7 @@ margin: 0px;
   .content {
     align-content: center;
     justify-content: center;
-  }
+ 
+ }
+
 }

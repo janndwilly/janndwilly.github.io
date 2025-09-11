@@ -82,7 +82,7 @@ margin: 0px;
 }
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 #portfolio {
@@ -103,7 +103,7 @@ margin: 0px;
 
 #portfolio a {
   text-decoration: none;
-  color: #454545;
+  color: #fffcfc;
 }
 
 /* responsive web design */

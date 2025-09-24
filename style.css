@@ -1,5 +1,5 @@
 body { 
-    background: #5204ce;
+    background: #7f38f3;
     color: #000000;
     padding: 10px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -163,4 +163,9 @@ img{ border-radius: 50%;
 
 }
 
+body {
+background-image: url(https://www.google.com/imgres?q=freak%20sonic&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1867321754848264192%2FLdss3gtN_400x400.jpg&imgrefurl=https%3A%2F%2Fx.com%2Ffreakysonic_sol&docid=nNequOq4R4uaXM&tbnid=Z32lMcy26UfmvM&vet=12ahUKEwiWgdC9r-KPAxUsJ0QIHccwMLEQM3oECCkQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiWgdC9r-KPAxUsJ0QIHccwMLEQM3oECCkQAA);
+
+
+}
 

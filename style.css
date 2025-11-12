@@ -169,3 +169,110 @@ background-image: url(https://www.google.com/imgres?q=freak%20sonic&imgurl=https
 
 }
 
+  body {
+                background: #660707;
+                color: black;
+                padding: 10px;
+                font-family: Garamond;
+                font-size: 20px;
+            }
+            #all-contents {
+                margin: auto;
+                justify-content: center;
+            }
+            /* navigation menu */
+            nav {
+                background: #0D4F06;
+                margin: auto;
+                display: flex;
+                padding:10px;
+                border-radius: 10px;
+                border-color: black;
+                margin: 0 auto;
+                margin-bottom: 15px;
+                max-width: fit-content;
+                box-shadow: 6px 6px #0000004b;
+                width: 1500px;
+            }
+            h1 {
+                display: flex;
+                align-items: center;
+                color: white;
+                flex: 1;
+                margin: 10px;
+                font-style: oblique;
+                font-size: 40px;
+                padding: 10px;
+            }
+            #nav-ul {
+                list-style-image: none;
+            }
+            .nav-li {
+                display: inline-block;
+                padding: 5px;
+            }
+            .nav-a {
+                text-decoration: none;
+                color: white;
+                padding-right: 25px;
+            }
+    
+            /* main container area beneath menu */
+            main {
+                background: #0D4F06;
+                display: flex;
+                border-radius: 10px;
+                border-color: black;
+                max-width: 1000px;
+                justify-content: center;
+                box-shadow: 6px 6px #0000004b;
+                margin: auto;
+            }
+            a {
+                text-decoration: none;
+                color: rgb(0, 0, 0);
+                padding-right: 100px;
+            }
+         .content h1 {
+            display: flex;
+                align-items: center;
+                color:#660707;
+                flex: 1;
+                margin: 0;
+                font-style: oblique;
+                font-size: 40px;
+                padding: 10px;
+                
+           
+         }
+         
+         #portfolio {
+             list-style-type: none;
+             padding-left: 0;
+         }
+         
+         #portfolio li {
+            transition: 150ms;
+             background: #660707;
+             padding: 10px;
+             border-radius: 10px;
+             margin-bottom: 10px;
+             margin-left: 20px;
+             margin-right: 20px;
+             box-shadow: 6px 5px #0000004b;
+             margin-bottom: 15px;
+         }
+         
+         #portfolio li:hover {
+             background: grey;
+             box-shadow: 10px 8px #0000004b;
+         } 
+         
+         #portfolio a {
+             text-decoration: none;
+             color: white;
+         }
+         h2 {
+            margin-left: 10px;
+         }
+

@@ -1,5 +1,5 @@
 body { 
-    background: #7f38f3;
+    background: rgb(206, 78, 3);
     color: #000000;
     padding: 10px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -11,7 +11,7 @@ margin: auto;
 
 /* navigation menu */
 nav {
-    background: #ffaa0b;
+    background: rgb(255, 198, 43);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -24,7 +24,7 @@ h1 {
 
     display: flex;
     align-items: center;
-    color: #5204ce;
+    color: rgb(206, 78, 3);
     flex: 1;
     margin: 0;
 }
@@ -48,7 +48,7 @@ text-decoration: none;
 
 /* main container area beneath menu*/
 main { 
-      background:#ffa500;
+      background:rgb(255, 198, 43);
       display: flex;
       margin-top: 20px;
 }
@@ -90,7 +90,7 @@ margin: 0px;
 }
 
 #portfolio li {
-  background: #5204ce;
+  background: rgb(206, 78, 3);
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
